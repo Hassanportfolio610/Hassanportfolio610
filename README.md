@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>👋 Hi, I’m Hassan Iqbal.<br>🎓 I’m currently pursuing a BS in Computer Science at Air University.<br>💻 I work as a Frontend Web Developer and Database Developer.<br>🌱 I’m currently learning Full Stack Web Development.<br>🤝 I’m open to collaborating on Web Development Projects.<br>💬 Ask me about HTML, CSS, JavaScript, React, and SQL.<br>⚡ Fun fact: I enjoy turning ideas into real, working websites.
+<br>👋 Hi, I’m Hassan Iqbal.<br>🎓 I’m currently pursuing a BS in Computer Science at Air University.<br>💻 I work as a Frontend Web Developer and Database Developer.<br>🌱 I’m currently learning Full Stack Web Development.<br>🤝 I’m open to collaborating on Web Development Projects.<br>💬 Ask me about HTML, CSS, JavaScript, React, and SQL.<br>⚡ Fun fact: I enjoy turning ideas into real, working websites.
 
 
 ## 🌐 Socials:
